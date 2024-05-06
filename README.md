@@ -1,2 +1,4 @@
 # BMI android app
-my first android app for learning Java and Android development
+my first android app for practicing Java and Android development.
+
+min sdk: 24
